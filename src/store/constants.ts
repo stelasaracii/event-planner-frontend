@@ -1,0 +1,16 @@
+export const SET_DATA = 'SET_DATA';
+export const ADD_EVENT = 'CREATE_EVENT';
+export const DELETE_EVENTS = 'DELETE_EVENT';
+export const EDIT_EVENT = 'EDIT_EVENT';
+export const SET_EVENTS = 'SET_EVENTS';
+export const ADD_USER = 'CREATE_USER';
+export const DELETE_USERS = 'DELETE_USER';
+export const EDIT_USER = 'EDIT_USER';
+export const SET_USERS = 'SET_USERS';
+export const BASE_URL = 'http://localhost:5000';
+export const LOGIN = 'LOGIN';
+export const LOGOUT = 'LOGOUT';
+export const ADD_REQUEST = 'CREATE_REQUEST';
+export const DELETE_REQUESTS = 'DELETE_REQUEST';
+export const EDIT_REQUEST = 'EDIT_REQUEST';
+export const SET_REQUESTS = 'SET_REQUESTS';
